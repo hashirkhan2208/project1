@@ -1,0 +1,6 @@
+streamlit
+sentence-transformers
+numpy
+matplotlib
+seaborn
+scikit-learn
